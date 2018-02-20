@@ -1,0 +1,6 @@
+\\mydocs\home$\c\caclements2\visual studio 2017\Projects\LinkedList\LinkedList\bin\Debug\LinkedList.exe.config
+\\mydocs\home$\c\caclements2\visual studio 2017\Projects\LinkedList\LinkedList\bin\Debug\LinkedList.exe
+\\mydocs\home$\c\caclements2\visual studio 2017\Projects\LinkedList\LinkedList\bin\Debug\LinkedList.pdb
+\\mydocs\home$\c\caclements2\visual studio 2017\Projects\LinkedList\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
+\\mydocs\home$\c\caclements2\visual studio 2017\Projects\LinkedList\LinkedList\obj\Debug\LinkedList.exe
+\\mydocs\home$\c\caclements2\visual studio 2017\Projects\LinkedList\LinkedList\obj\Debug\LinkedList.pdb

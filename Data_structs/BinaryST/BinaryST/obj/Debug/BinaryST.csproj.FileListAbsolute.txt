@@ -1,0 +1,6 @@
+\\mydocs\home$\c\caclements2\visual studio 2017\Projects\BinaryST\BinaryST\bin\Debug\BinaryST.exe.config
+\\mydocs\home$\c\caclements2\visual studio 2017\Projects\BinaryST\BinaryST\bin\Debug\BinaryST.exe
+\\mydocs\home$\c\caclements2\visual studio 2017\Projects\BinaryST\BinaryST\bin\Debug\BinaryST.pdb
+\\mydocs\home$\c\caclements2\visual studio 2017\Projects\BinaryST\BinaryST\obj\Debug\BinaryST.csprojResolveAssemblyReference.cache
+\\mydocs\home$\c\caclements2\visual studio 2017\Projects\BinaryST\BinaryST\obj\Debug\BinaryST.exe
+\\mydocs\home$\c\caclements2\visual studio 2017\Projects\BinaryST\BinaryST\obj\Debug\BinaryST.pdb

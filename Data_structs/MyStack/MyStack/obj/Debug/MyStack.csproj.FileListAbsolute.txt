@@ -1,0 +1,6 @@
+\\mydocs\home$\c\caclements2\visual studio 2017\Projects\MyStack\MyStack\bin\Debug\MyStack.exe.config
+\\mydocs\home$\c\caclements2\visual studio 2017\Projects\MyStack\MyStack\bin\Debug\MyStack.exe
+\\mydocs\home$\c\caclements2\visual studio 2017\Projects\MyStack\MyStack\bin\Debug\MyStack.pdb
+\\mydocs\home$\c\caclements2\visual studio 2017\Projects\MyStack\MyStack\obj\Debug\MyStack.csprojResolveAssemblyReference.cache
+\\mydocs\home$\c\caclements2\visual studio 2017\Projects\MyStack\MyStack\obj\Debug\MyStack.exe
+\\mydocs\home$\c\caclements2\visual studio 2017\Projects\MyStack\MyStack\obj\Debug\MyStack.pdb
