@@ -1,6 +1,0 @@
-\\mydocs\home$\c\caclements2\visual studio 2017\Projects\MyQueue\MyQueue\bin\Debug\MyQueue.exe.config
-\\mydocs\home$\c\caclements2\visual studio 2017\Projects\MyQueue\MyQueue\bin\Debug\MyQueue.exe
-\\mydocs\home$\c\caclements2\visual studio 2017\Projects\MyQueue\MyQueue\bin\Debug\MyQueue.pdb
-\\mydocs\home$\c\caclements2\visual studio 2017\Projects\MyQueue\MyQueue\obj\Debug\MyQueue.csprojResolveAssemblyReference.cache
-\\mydocs\home$\c\caclements2\visual studio 2017\Projects\MyQueue\MyQueue\obj\Debug\MyQueue.exe
-\\mydocs\home$\c\caclements2\visual studio 2017\Projects\MyQueue\MyQueue\obj\Debug\MyQueue.pdb
